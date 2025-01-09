@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh   ;
+    background-color: #525252;
+    color: #e4e4e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section {
+    text-align: center;
+    height: 50%;
+    font-family: 'arial', sans-serif;
+}
+
+h1{
+    padding: 0 0 0.5rem 0;
+    font-size: 3rem;
+}
+
+input{
+    border: none;
+    padding: 0.5rem;
+    background-color: #e4e4e4;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+p{
+    padding: 1.5rem 0 0;
+    font-size: 1.1rem;
+}
