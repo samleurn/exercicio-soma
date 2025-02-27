@@ -1,6 +1,6 @@
 # Página de Soma
 
-### Este é um projeto individual, com foco em praticar a interação o conhecimento obtido.
+### Este é um projeto individual, com foco em praticar a interação entre as tecnologias do conhecimento obtido.
 
 ## 💻Tecnologias Ultilizadas
 
